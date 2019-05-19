@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TimedDeleten</string>
+    <string name="btn_clean">立即清理</string>
+    <string name="btn_start_clean">开启定时清理垃圾</string>
+    <string name="btn_stop_clean">停止定时清理垃圾</string>
+    <string name="btn_start_suspension">开启定时启动</string>
+    <string name="btn_stop_suspension">停止定时启动</string>
+</resources>
